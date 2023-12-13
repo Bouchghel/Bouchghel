@@ -11,7 +11,7 @@
 
 - ## Website
 
-- 🌐 Visit my personal website: [YourWebsite.com](https://bouchghel.github.io/Portfolio/)
+- 🌐 Visit my personal website: [ProtfolioBouchghel.com](https://bouchghel.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
